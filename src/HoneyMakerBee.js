@@ -3,8 +3,6 @@ var HoneyMakerBee = function() {
   this.age = 10;
   this.job = 'make honey';
   this.color = 'yellow';
-  this.food;
-  this.eat;
   this.honeyPot = 0;
 
 };

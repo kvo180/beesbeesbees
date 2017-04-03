@@ -4,8 +4,6 @@ var RetiredForagerBee = function() {
   this.job = 'gamble';
   this.canFly = false;
   this.color = 'grey';
-  this.food;
-  this.eat;
   this.treasureChest = [];
 };
 
